@@ -1,3 +1,30 @@
+# Natural Language Processing 2
+My seconde iteration of works for "Natural Language Processing" Coursera course.
+
+## Week1
+Predict tag of Stackoverflow with linear model. (multi-tag)
+Used GridSearch CV for optimisation on tfidf model.
+
+F1-score weighted :TODO
+
+## Week2
+Named entity recognition with LSTMs.  
+
+TODO
+
+## Week3
+Find duplicate questions by their embedding in word2vec.
+TODO
+
+## Week4
+Seq2Seq model, encoder-decoder to learn to addition and substraction.
+Model could be used for other tasks.
+TODO
+
+## Week5
+TODO
+
+
 # Natural Language Processing course resources
 https://www.coursera.org/learn/language-processing
 
