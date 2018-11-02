@@ -5,13 +5,13 @@ My seconde iteration of works for "Natural Language Processing" Coursera course.
 Predict tag of Stackoverflow with linear model. (multi-tag)
 Used GridSearch CV for optimisation on tfidf model.
 
-Accuracy:  0.3631 (low because multi-tag)
-F1-score micro: :  0.6752548016404758
-F1-score macro: :  0.5062362622222868
-F1-score weighted: :  0.6540253209151559
-Precision micro: :  0.4810782509911088
-Precision macro: :  0.3396351761816072
-Precision weighted: :  0.5102553014775187
+Accuracy:  0.3631 (low because multi-tag)  
+F1-score micro: :  0.6752548016404758  
+F1-score macro: :  0.5062362622222868  
+F1-score weighted: :  0.6540253209151559  
+Precision micro: :  0.4810782509911088  
+Precision macro: :  0.3396351761816072  
+Precision weighted: :  0.5102553014775187  
 
 ## Week2
 Named entity recognition with LSTMs.  
